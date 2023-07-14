@@ -92,7 +92,7 @@
   /*Fundo conteudo principal*/
   .fundo {
           background-color: #202020;
-          background: linear-gradient(rgba(17, 17, 17, 0.8), rgba(20, 20, 20, 1)), url(../img/5.jpg);
+          background: linear-gradient(rgba(17, 17, 17, 0.8), rgba(20, 20, 20, 1)), url(./img/5.jpg);
           background-position: center center;
           background-size: cover;
           background-position-y: 0px;
@@ -209,7 +209,7 @@
   /*Fundo*/
   .fundo{
       background-color: #202020;
-      background: linear-gradient(rgba(17, 17, 17, 0.8), rgba(20, 20, 20, 1)), url(../img/3.jpg);
+      background: linear-gradient(rgba(17, 17, 17, 0.8), rgba(20, 20, 20, 1)), url(./img/3.jpg);
       background-position: center center;
       background-size: cover;
       background-position-y: 0px;
